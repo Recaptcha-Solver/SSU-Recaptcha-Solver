@@ -1,0 +1,14 @@
+basic.py
+app.py
+test.py
+venv/
+pictures/
+config.ini
+*.jpg
+*.png
+__pycache__/
+*.pt
+*.weights
+model/graph/
+model/am/
+

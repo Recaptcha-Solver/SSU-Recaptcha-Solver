@@ -1,0 +1,5 @@
+0.89 school_bus
+0.08 traffic_light
+0.01 ambulance
+0.01 trolleybus
+0.00 passenger_car
